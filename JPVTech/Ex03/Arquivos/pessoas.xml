@@ -1,0 +1,23 @@
+<Pessoas>
+    <Pessoa>
+        <Nome>João da Silva</Nome>
+        <Idade>30</Idade>
+        <Telefone>(31) 1234-5678</Telefone>
+        <Email>joao@example.com</Email>
+        <Pais>Brasil</Pais>
+    </Pessoa>
+    <Pessoa>
+        <Nome>Maria Oliveira</Nome>
+        <Idade>25</Idade>
+        <Telefone>(11) 9876-5432</Telefone>
+        <Email>maria@example.com</Email>
+        <Pais>Brasil</Pais>
+    </Pessoa>
+    <Pessoa>
+        <Nome>John Doe</Nome>
+        <Idade>35</Idade>
+        <Telefone>(555) 555-1234</Telefone>
+        <Email>john@example.com</Email>
+        <Pais>United States</Pais>
+    </Pessoa>
+</Pessoas>

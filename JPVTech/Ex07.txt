@@ -1,0 +1,11 @@
+Durante uma verificação de rotina no banco de dados de produção do cliente você se depara com várias linhas duplicadas em uma tabela:
+EmployeeID      LastName	FirstName       BirthDate	Photo	
+1	        Davolio	        Nancy	        1968-12-08	EmpID1.pic
+1	        Davolio	        Nancy	        1968-12-08	EmpID1.pic
+Utilizando SQL, como resolver a situação?
+
+-- Considerando que não pretendo alterar nem excluir informações do banco de dados, eu iria criar uma nova tabela sem considerar os dados duplicados.
+
+CREATE TABLE NovaTabela AS
+SELECT DISTINCT EmployeeID, LastName, FirstName, BirthDate, Photo
+FROM TabelaOriginal;

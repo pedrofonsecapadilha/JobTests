@@ -1,0 +1,17 @@
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/bin/Debug/net7.0/Ex03
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/bin/Debug/net7.0/Ex03.deps.json
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/bin/Debug/net7.0/Ex03.runtimeconfig.json
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/bin/Debug/net7.0/Ex03.dll
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/bin/Debug/net7.0/Ex03.pdb
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/obj/Debug/net7.0/Ex03.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/obj/Debug/net7.0/Ex03.AssemblyInfoInputs.cache
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/obj/Debug/net7.0/Ex03.AssemblyInfo.cs
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/obj/Debug/net7.0/Ex03.csproj.CoreCompileInputs.cache
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/obj/Debug/net7.0/Ex03.dll
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/obj/Debug/net7.0/refint/Ex03.dll
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/obj/Debug/net7.0/Ex03.pdb
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/obj/Debug/net7.0/Ex03.genruntimeconfig.cache
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/obj/Debug/net7.0/ref/Ex03.dll
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/obj/Debug/net7.0/Ex03.csproj.AssemblyReference.cache
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/pedropadilha/code/JobTests/JPVTech/Ex03/obj/Debug/net7.0/Ex03.csproj.CopyComplete

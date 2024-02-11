@@ -1,0 +1,3 @@
+Com Javascript e/ou Jquery, ao clicar em um determinado botão,
+exiba uma mensagem para o usuário e popule uma caixa de seleção através
+de uma requisição Ajax a um arquivo JSON.

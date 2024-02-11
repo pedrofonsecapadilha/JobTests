@@ -1,0 +1,27 @@
+{
+  "Pessoas": {
+    "Pessoa": [
+      {
+        "Nome": "João da Silva",
+        "Idade": "30",
+        "Telefone": "(31) 1234-5678",
+        "Email": "joao@example.com",
+        "Pais": "Brasil"
+      },
+      {
+        "Nome": "Maria Oliveira",
+        "Idade": "25",
+        "Telefone": "(11) 9876-5432",
+        "Email": "maria@example.com",
+        "Pais": "Brasil"
+      },
+      {
+        "Nome": "John Doe",
+        "Idade": "35",
+        "Telefone": "(555) 555-1234",
+        "Email": "john@example.com",
+        "Pais": "United States"
+      }
+    ]
+  }
+}

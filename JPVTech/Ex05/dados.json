@@ -1,0 +1,22 @@
+[
+    {"nome": "Toyota Corolla"},
+    {"nome": "Honda Civic"},
+    {"nome": "Chevrolet Cruze"},
+    {"nome": "Ford Mustang"},
+    {"nome": "BMW X5"},
+    {"nome": "Audi A4"},
+    {"nome": "Mercedes-Benz Classe C"},
+    {"nome": "Volkswagen Golf"},
+    {"nome": "Hyundai Elantra"},
+    {"nome": "Kia Sportage"},
+    {"nome": "Subaru Outback"},
+    {"nome": "Nissan Altima"},
+    {"nome": "Mazda CX-5"},
+    {"nome": "Jeep Wrangler"},
+    {"nome": "Lexus RX"},
+    {"nome": "Tesla Model 3"},
+    {"nome": "Porsche 911"},
+    {"nome": "Ferrari 488 GTB"},
+    {"nome": "Lamborghini Huracan"},
+    {"nome": "Bugatti Chiron"}
+]

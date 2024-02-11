@@ -1,0 +1,14 @@
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/bin/Debug/net7.0/Ex02
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/bin/Debug/net7.0/Ex02.deps.json
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/bin/Debug/net7.0/Ex02.runtimeconfig.json
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/bin/Debug/net7.0/Ex02.dll
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/bin/Debug/net7.0/Ex02.pdb
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/obj/Debug/net7.0/Ex02.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/obj/Debug/net7.0/Ex02.AssemblyInfoInputs.cache
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/obj/Debug/net7.0/Ex02.AssemblyInfo.cs
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/obj/Debug/net7.0/Ex02.csproj.CoreCompileInputs.cache
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/obj/Debug/net7.0/Ex02.dll
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/obj/Debug/net7.0/refint/Ex02.dll
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/obj/Debug/net7.0/Ex02.pdb
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/obj/Debug/net7.0/Ex02.genruntimeconfig.cache
+/home/pedropadilha/code/JobTests/JPVTech/Ex02/obj/Debug/net7.0/ref/Ex02.dll

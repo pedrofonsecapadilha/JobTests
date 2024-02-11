@@ -1,0 +1,3 @@
+Utilizando JS, crie uma requisição Ajax, em que seu retorno seja uma lista de objetos
+e para cada Objeto nessa lista, crie uma lista de tópicos no html com os valores de
+suas respectivas propriedades.
